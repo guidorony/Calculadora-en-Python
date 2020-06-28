@@ -10,7 +10,7 @@ from tkinter import *
 from math import *
 
 ventana = Tk()
-ventana.iconbitmap("UNA.ico")
+ventana.iconbitmap("../image/UNA.ico")
 ventana.title("Calculadora basica")
 ventana.geometry("400x600")
 ventana.resizable(False,False)
